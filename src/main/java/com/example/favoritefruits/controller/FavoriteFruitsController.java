@@ -13,11 +13,6 @@ import com.example.favoritefruits.domain.FavoriteFruitsCondition;
 import com.example.favoritefruits.domain.Fruit;
 import com.example.favoritefruits.service.FavoriteFruitsService;
 
-/**
- * Controllerのコメント書く
- * @author HyunwookPark
- *
- */
 @Controller
 public class FavoriteFruitsController {
 
